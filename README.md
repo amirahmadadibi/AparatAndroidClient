@@ -1,7 +1,8 @@
 # AparatAndroidClient
-get your merchant code from your panel int next.zarinpal.com
+This project uses Zarinpal payment SDK for featuring in app perchues
+Get your merchant code from your panel int next.zarinpal.com
 
-## edit file Constants.kt
+## Edit file Constants.kt
 
 ```
 const val MERCHANT_ID = "YOUR_MERCHANT_CODE"
