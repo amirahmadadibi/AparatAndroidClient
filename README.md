@@ -13,3 +13,6 @@ also if you want to show your videos you can chagne username const
 ```
 const val APARAT_USERNAME = "YOUR_USERNAME"
 ```
+
+## Application link on google play store 
+https://play.google.com/store/apps/details?id=com.amirahmadadibi.projects.myaparat
